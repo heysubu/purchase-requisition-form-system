@@ -661,10 +661,8 @@ If you have suggestions or need customization, feel free to reach out!
 
 ## 📞 Contact
 
-For customization requests, freelance work, or questions:
-- [**GitHub**](https://github.com/heysubu)
-- **Email**: suubhamghadge@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
